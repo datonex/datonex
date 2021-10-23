@@ -1,3 +1,3 @@
 # DatoneX
 
-<img src="datonex.GIF" width="700" height="700" position="center"/>
+![Alt Text](datonex.GIF)
