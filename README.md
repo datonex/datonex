@@ -97,55 +97,13 @@ E-commerce perfume and candles web store
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 641 Contributions in the Year 2022
- > 
-> 📦 228.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-🌆 Daytime    287 commits    ██████████░░░░░░░░░░░░░░░   40.37% 
-🌃 Evening    284 commits    ██████████░░░░░░░░░░░░░░░   39.94% 
-🌙 Night      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
-Wednesday    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Saturday     142 commits    █████░░░░░░░░░░░░░░░░░░░░   19.97% 
-Sunday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.03%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 Java                     4 hrs 11 mins       ████████████████████░░░░░   80.38% 
 JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
 Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.57%
-
-🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -161,12 +119,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/datonex/datonex/master/charts/bar_graph.png) 
-
-
- Last Updated on 02/08/2022 18:07:28 UTC
+ Last Updated on 02/08/2022 18:13:07 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
