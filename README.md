@@ -95,6 +95,78 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%202%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 640 Contributions in the Year 2022
+ > 
+> 📦 228.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+🌆 Daytime    287 commits    ██████████░░░░░░░░░░░░░░░   40.42% 
+🌃 Evening    283 commits    ██████████░░░░░░░░░░░░░░░   39.86% 
+🌙 Night      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Tuesday      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
+Wednesday    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
+Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Saturday     142 commits    █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Java                     4 hrs 11 mins       ████████████████████░░░░░   80.38% 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.57%
+
+🔥 Editors: 
+VS Code                  5 hrs 12 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     18 repos            ████████████████░░░░░░░░░   64.29% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/datonex/datonex/master/charts/bar_graph.png) 
+
+
+ Last Updated on 02/08/2022 17:49:31 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
