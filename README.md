@@ -95,17 +95,17 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     39 hrs 58 mins      ███████████████████░░░░░░   78.41% 
-Markdown                 10 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   20.42% 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+Java                     34 hrs 9 mins       ██████████████████████░░░   89.99% 
+Markdown                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 ```
 
@@ -122,7 +122,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2022 18:48:29 UTC
+ Last Updated on 11/08/2022 18:49:55 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
