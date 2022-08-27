@@ -95,7 +95,7 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -122,7 +122,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 18:50:05 UTC
+ Last Updated on 27/08/2022 18:47:23 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
