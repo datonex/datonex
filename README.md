@@ -97,6 +97,18 @@ E-commerce perfume and candles web store
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%206%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     33 hrs 43 mins      ███████████████████████░░   94.55% 
+Markdown                 1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+CSV                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -110,7 +122,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:47:45 UTC
+ Last Updated on 05/09/2022 18:50:50 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
