@@ -95,17 +95,15 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     26 hrs 54 mins      ███████████████████████░░   94.0% 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+Java                     23 hrs 13 mins      █████████████████████████   99.77% 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
@@ -122,7 +120,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2022 18:51:43 UTC
+ Last Updated on 07/09/2022 18:52:24 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
