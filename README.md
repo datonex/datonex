@@ -97,11 +97,7 @@ E-commerce perfume and candles web store
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ███████████████████████░░   91.53% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 ```
 
@@ -118,7 +114,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2022 18:57:19 UTC
+ Last Updated on 15/10/2022 18:54:16 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
