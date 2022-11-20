@@ -91,7 +91,7 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -108,17 +108,17 @@ JSON                     0 secs              ░░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     19 repos            ████████████░░░░░░░░░░░░░   48.72% 
+HTML                     18 repos            ███████████░░░░░░░░░░░░░░   46.15% 
 Java                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
 JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
 
 
- Last Updated on 19/11/2022 18:44:39 UTC
+ Last Updated on 20/11/2022 18:45:00 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
