@@ -64,7 +64,7 @@ Famous battleship game played in the terminal
 
 <a href="https://github.com/datonex/owl-nook-dx" style="background-color: white;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://owl-nook-dx.herokuapp.com/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 
-<a href="https://owl-nook-dx.herokuapp.com/"><img src="assets/owl-nook.png" /></a>
+<a href="https://owl-nook-dx.onrender.com/"><img src="assets/owl-nook.png" /></a>
 
 Web blog where people can post articles to the web.
 
@@ -76,7 +76,7 @@ Web blog where people can post articles to the web.
 
 <a href="https://github.com/datonex/eau-royal" style="background-color: white;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://eau-royal.herokuapp.com/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 
-<a href="https://eau-royal.herokuapp.com/"><img src="assets/eau-royal.png" /></a>
+<a href="https://eau-royal.onrender.com/"><img src="assets/eau-royal.png" /></a>
 
 E-commerce perfume and candles web store
 
