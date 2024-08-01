@@ -6,7 +6,7 @@
 
 ### <div style="text-align: center;">Full Stack Java developer from London and Code Institute alumni </div>
 
-<div style="text-align: center;"> <a href="https://www.linkedin.com/in/tanyagomwe10/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.discord/users/datonex#9338/" ><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> </div>
+<div style="text-align: center;"> <a href="https://www.linkedin.com/in/tanyagomwe10/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 
 ## <div style="text-align: center;"> Tech Stack </div>
 
