@@ -6,7 +6,7 @@
 
 ### <div style="text-align: center;">Full Stack Java developer from London and Code Institute alumni </div>
 
-<div style="text-align: center;"> <a href="https://www.linkedin.com/in/tanyagomwe10/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
+<div style="text-align: center;"> <a href="https://www.linkedin.com/in/tanyagomwe10/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## <div style="text-align: center;"> Tech Stack </div>
 
@@ -24,18 +24,6 @@
 
 ## <div style="text-align: center;"> Portfolio Projects </div>
 
-### Visit Zimbabwe
-
-<a href="https://github.com/datonex/visit-zimbabwe" style="background-color: white;" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://datonex.github.io/visit-zimbabwe/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-
-<a href="https://datonex.github.io/visit-zimbabwe/"><img src="assets/visit-zimbabwe.png" /></a>
-
-Tourist guide website for users who would like to visit Zimbabwe and get information about some of the local sites and activities.
-
-#### Technologies used
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-
 ### The Snake & The Wizard
 
 <a href="https://github.com/datonex/snake-and-the-wizard" style="background-color: white;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://datonex.github.io/snake-and-the-wizard/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -48,14 +36,6 @@ Web based game of the nokia game 'snake' (this was my favourite project)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![adobe xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-### Battleshipasaurus
-
-<a href="https://github.com/datonex/battleship" style="background-color: white;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://battleshipasaurus.herokuapp.com/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-
-<a href="https://battleshipasaurus.herokuapp.com/"><img src="assets/battleship.png" /></a>
-
-Famous battleship game played in the terminal
-
 #### Technologies used
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -64,7 +44,7 @@ Famous battleship game played in the terminal
 
 <a href="https://github.com/datonex/owl-nook-dx" style="background-color: white;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://owl-nook-dx.herokuapp.com/" style="background-color: white;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 
-<a href="https://owl-nook-dx.onrender.com/"><img src="assets/owl-nook.png" /></a>
+<a href="https://owl-nook.onrender.com/"><img src="assets/owl-nook.png" /></a>
 
 Web blog where people can post articles to the web.
 
@@ -91,30 +71,34 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%2013%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2057%20mins-blue)
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+💬 Programming Languages:
+JavaScript               12 hrs 37 mins      ████████████████████░░░░░   80.02%
+Java                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
-HTML                     18 repos            ███████████░░░░░░░░░░░░░░   46.15 % 
-Java                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+HTML                     18 repos            ████████████░░░░░░░░░░░░░   48.65%
+Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32%
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
 
 ```
 
+Last Updated on 02/10/2022 18:54:24 UTC
 
-
- Last Updated on 16/02/2023 18:41:50 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
