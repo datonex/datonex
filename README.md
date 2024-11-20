@@ -71,34 +71,6 @@ E-commerce perfume and candles web store
 ![Datonex's GitHub stats](https://github-readme-stats.vercel.app/api?username=datonex&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2057%20mins-blue)
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-JavaScript               12 hrs 37 mins      ████████████████████░░░░░   80.02%
-Java                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
-
-```
-
-**I Mostly Code in HTML**
-
-```text
-HTML                     18 repos            ████████████░░░░░░░░░░░░░   48.65%
-Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32%
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-```
-
-Last Updated on 02/10/2022 18:54:24 UTC
-
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datonex&theme=dark)](https://git.io/streak-stats)
